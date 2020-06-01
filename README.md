@@ -21,4 +21,13 @@ At the moment, the total length of the audio is 102 hours, the ratio of male and
 
 ### Download the data
 
-Please visit - http://dataset.sova.ai/SOVA_open_source_part_1.zip to download the data (2,33 Gb). Data are stored in .wav and .txt format.
+Please visit - http://dataset.sova.ai/SOVA_open_source_part_1.zip to download the data (9,83 Gb). Data are stored in .wav and .txt format.
+
+Hash value
+
+> CRC32: 5F9341E1
+> MD5: 8B68F2FA6D101039C9964299FD5A7CB4
+> SHA-1: 5CAFAA8D776D1692EB19C95A6419725C32F9AB8B
+ 
+
+
