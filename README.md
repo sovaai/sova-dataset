@@ -17,11 +17,11 @@ At the moment, the total length of the audio is 102 hours, the ratio of male and
 
 ### Updates
 
-24/12/2019: Published first 102 hours of labled data.
+24/12/2019: Published first 116 hours (116:59:20.69) of labled data.
 
 ### Download the data
 
-Please visit - http://dataset.sova.ai/SOVA_open_source_part_1.zip to download the data (9,83 Gb). Data are stored in .wav and .txt format.
+Please visit - http://dataset.sova.ai/SOVA_open_source_part_1.zip to download the data (9,84 Gb). Data stored in .wav and .txt format.
 
 Hash value:
 ```
