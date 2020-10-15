@@ -29,5 +29,6 @@ CRC32: CFC6D423
 MD5: A3577AAE4B7558E4953B80B4CA43B547
 SHA-1: F64E6574FEE3FDFE7A0918C36D42DA8B8F827BEF
 ```
+### Licenses
 
-
+The dataset is made available under Creative Commons BY 4.0 license by Virtual Assistant, LLC.
