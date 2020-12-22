@@ -10,10 +10,10 @@ Key facts:
 ## Dataset composition
 |Name||Lang|Hours|GB|Source|Equipment|Annotation|Speech type|Augmentation|Quality|
 |-|:-:|-|-|-|-|-|-|-|-|-|
-|EngAudiobooksOriginal|[📂](https://storage.ashmanov.org/s/Y8RqQyioRK8r4gC "Download")|Eng|7,130|743|audiobook|professional|forced alignment|reading|none|95%|
-|EngAudiobooksNoisy|[📂](https://storage.ashmanov.org/s/LFYCERakHX2xTwF "Download")|Eng|3,873|310|audiobook|professional|forced alignment|reading|phone calls|95%|
-|RuAudiobooksDevices|[📥](https://storage.ashmanov.org/s/CbMPLSykYrj4igK "Download")|Rus|298|31|audiobook|unprofessional|manual|reading|none|99%|
-|RuDevices|[📥](https://storage.ashmanov.org/s/8SEccKe66xadWqi "Download")|Rus|101|11|audio records|unprofessional|manual|live speech|none|98%|
+|EngAudiobooksOriginal|[📂](https://storage.ashmanov.org/s/Y8RqQyioRK8r4gC "Download")|EN|7,130|743|audiobook|professional|forced alignment|reading|none|95%|
+|EngAudiobooksNoisy|[📂](https://storage.ashmanov.org/s/LFYCERakHX2xTwF "Download")|EN|3,873|310|audiobook|professional|forced alignment|reading|phone calls|95%|
+|RuAudiobooksDevices|[📥](https://storage.ashmanov.org/s/CbMPLSykYrj4igK "Download")|RU|298|31|audiobook|unprofessional|manual|reading|none|99%|
+|RuDevices|[📥](https://storage.ashmanov.org/s/8SEccKe66xadWqi "Download")|RU|101|11|audio records|unprofessional|manual|live speech|none|98%|
 |**TOTAL**|-|-|**11,402**|**1,1**|-|-|-|-|-|
 
 
