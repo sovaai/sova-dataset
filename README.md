@@ -5,7 +5,7 @@ SOVA Dataset is free public STT/ASR dataset.
 Key facts:
 - Russian and English languages
 - ~ 11 400 hours
-- ~ 1 TB in `.wav` format
+- ~ 1,1 TB in `.wav` format
 
 ## Dataset composition
 |Name||Lang|Hours|GB|Source|Equipment|Annotation|Speech type|Augmentation|Quality|
