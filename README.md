@@ -1,34 +1,37 @@
-# Dataset SOVA.ai
+# SOVA Dataset
 
-The open dataset SOVA consists of marked audio recordings and text corresponding to these recordings.
+SOVA Dataset is public STT/ASR dataset.
 
-The dataset consists of two parts:
-* telephone conversation
-* conversations from the telegram messenger
+Key facts:
 
-At the moment, the total length of the audio is 102 hours, the ratio of male and female voices ~50/50.
+- Russian and English languages
+- ~ 11 400 hours
+- ~ 1 TB in .wav format
 
-### Technical data
+## Dataset composition
+|File name|Lang|Hours|Size (Gb)|Comment|Equipment|Annotation|Speech type|Augmentation|Quality/noise|URL
+|-|-|-|-|-|-|-|-|-|-|:-:|
+|EngAudiobooksOriginal|Eng|7 130|743|audiobook|professional|forced alignment|reading|none|95%|[📥](https://storage.ashmanov.org/s/Y8RqQyioRK8r4gC)
+|EngAudiobooksNoisy|Eng|3 873|310|audiobook|professional|forced alignment|reading|phone calls|95%| [📥](https://storage.ashmanov.org/s/LFYCERakHX2xTwF)
+|RuAudiobooksDevices|Rus|298|31|audiobook|unprofessional|manual|reading|none|99%|[📥](https://storage.ashmanov.org/s/CbMPLSykYrj4igK)
+|RuDevices|Rus|101|11|audio records|unprofessional|manual|live speech|none|98%|[📥](https://storage.ashmanov.org/s/8SEccKe66xadWqi)
+|**TOTAL**|-|**11 402**|**1 095**|-|-|-|-|-|-|
+
+
+## Technical data
 * Bit rate mode: constant
 * Bit rate: 256 kbps
 * Channel(s): 1 channel
 * Sample rate: 16.0 kHz
-* Bit depth: 16 bit"
+* Bit depth: 16 bit
 
-### Updates
+## Updates
 
 24/12/2019: Published first 116 hours (116:59:20.69) of labled data.
 
-### Download the data
+## Contacts
+For all questions please feel free to contact us through [web form](https://sova.ai/other-inquiries) or directly via <a href="mailto:support@sova.ai?subject=SOVA Dataset">support@sova.ai</a>
 
-Please visit - http://dataset.sova.ai/SOVA_open_source_part_1.zip to download the data (9,84 Gb). Data stored in .wav and .txt format.
+## License
 
-Hash value:
-```
-CRC32: CFC6D423
-MD5: A3577AAE4B7558E4953B80B4CA43B547
-SHA-1: F64E6574FEE3FDFE7A0918C36D42DA8B8F827BEF
-```
-### Licenses
-
-The dataset is made available under Creative Commons BY 4.0 license by Virtual Assistant, LLC.
+SOVA Dataset is licensed under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/) license by Virtual Assistant, LLC.
