@@ -8,7 +8,7 @@ Key facts:
 - ~ 1 TB in `.wav` format
 
 ## Dataset composition
-|Name||Lang|Hours|GB|Comment|Equipment|Annotation|Speech type|Augmentation|Quality|
+|Name||Lang|Hours|GB|Source|Equipment|Annotation|Speech type|Augmentation|Quality|
 |-|:-:|-|-|-|-|-|-|-|-|-|
 |EngAudiobooksOriginal|[📂](https://storage.ashmanov.org/s/Y8RqQyioRK8r4gC "Download")|Eng|7,130|743|audiobook|professional|forced alignment|reading|none|95%|
 |EngAudiobooksNoisy|[📂](https://storage.ashmanov.org/s/LFYCERakHX2xTwF "Download")|Eng|3,873|310|audiobook|professional|forced alignment|reading|phone calls|95%|
@@ -26,7 +26,7 @@ Key facts:
 
 ## Updates
 
-24/12/2019: Published first 116 hours.
+24/12/2019: Published вdataset with 116 hours .
 
 ## Contacts
 For all questions please feel free to contact us through [web form](https://sova.ai/other-inquiries) or directly via <a href="mailto:support@sova.ai?subject=SOVA Dataset">support@sova.ai</a>
