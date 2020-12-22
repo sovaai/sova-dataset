@@ -26,7 +26,7 @@ Key facts:
 
 ## Updates
 
-24/12/2019: Published first 116 hours (116:59:20.69) of labled data.
+24/12/2019: Published first 116 hours.
 
 ## Contacts
 For all questions please feel free to contact us through [web form](https://sova.ai/other-inquiries) or directly via <a href="mailto:support@sova.ai?subject=SOVA Dataset">support@sova.ai</a>
