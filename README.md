@@ -25,8 +25,8 @@ Key facts:
 * Bit depth: 16 bit
 
 ## Updates
-22/12/2020: [Release v0.2.0](https://github.com/sovaai/sova-dataset/releases/tag/v0.2.0)
-24/12/2019: Published dataset with 116 hours.
+* 22/12/2020: [Release v0.2.0](https://github.com/sovaai/sova-dataset/releases/tag/v0.2.0)
+* 24/12/2019: Published dataset with 116 hours.
 
 ## Contacts
 For all questions please feel free to contact us through [web form](https://sova.ai/other-inquiries) or directly via <a href="mailto:support@sova.ai?subject=SOVA Dataset">support@sova.ai</a>
