@@ -10,10 +10,10 @@ Key facts:
 ## Dataset composition
 |Name||Lang|Hours|Size|Source|Equipment|Annotation|Speech type|Augmentation|Quality|
 |-|:-:|-|-|-|-|-|-|-|-|-|
-|EngAudiobooksOriginal|[📂](https://storage.ashmanov.org/s/Y8RqQyioRK8r4gC "Download")|EN|7,130|743 Gb|audiobook|professional|forced alignment|reading|none|95%|
-|EngAudiobooksNoisy|[📂](https://storage.ashmanov.org/s/LFYCERakHX2xTwF "Download")|EN|3,873|310 Gb|audiobook|professional|forced alignment|reading|phone calls|95%|
-|RuAudiobooksDevices|[📥](https://storage.ashmanov.org/s/CbMPLSykYrj4igK "Download")|RU|298|31 Gb|audiobook|unprofessional|manual|reading|none|99%|
-|RuDevices|[📥](https://storage.ashmanov.org/s/8SEccKe66xadWqi "Download")|RU|101|11 Gb|audio records|unprofessional|manual|live speech|none|98%|
+|EngAudiobooksOriginal|[📂](https://na-storage.nanosemantics.ai/s/Y8RqQyioRK8r4gC "Download")|EN|7,130|743 Gb|audiobook|professional|forced alignment|reading|none|95%|
+|EngAudiobooksNoisy|[📂](https://na-storage.nanosemantics.ai/s/LFYCERakHX2xTwF "Download")|EN|3,873|310 Gb|audiobook|professional|forced alignment|reading|phone calls|95%|
+|RuAudiobooksDevices|[📥](https://na-storage.nanosemantics.ai/s/CbMPLSykYrj4igK "Download")|RU|298|31 Gb|audiobook|unprofessional|manual|reading|none|99%|
+|RuDevices|[📥](https://na-storage.nanosemantics.ai/s/8SEccKe66xadWqi "Download")|RU|101|11 Gb|audio records|unprofessional|manual|live speech|none|98%|
 |**TOTAL**|-|-|**11,402**|**1,1 TB**|-|-|-|-|-|
 
 
