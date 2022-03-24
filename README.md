@@ -10,11 +10,11 @@ Key facts:
 ## Dataset composition
 |Name||Lang|Hours|Size|Source|Equipment|Annotation|Speech type|Augmentation|Quality|
 |-|:-:|-|-|-|-|-|-|-|-|-|
-|EngAudiobooksOriginal|[Download](https://disk.yandex.ru/d/2zAEV8gf7dqU1Q "Download")|EN|7&nbsp;130|743&nbsp;Gb|audiobook|professional|forced alignment|reading|none|95%|
-|EngAudiobooksNoisy|[Download](https://disk.yandex.ru/d/2zAEV8gf7dqU1Q "Download")|EN|3&nbsp;873|310&nbsp;Gb|audiobook|professional|forced alignment|reading|phone calls|95%|
-|RuAudiobooksDevices|[Download](https://disk.yandex.ru/d/2zAEV8gf7dqU1Q "Download")|RU|298|30,24&nbsp;Gb|audiobook|unprofessional|manual|reading|none|99%|
-|RuDevices|[Download](https://disk.yandex.ru/d/2zAEV8gf7dqU1Q "Download")|RU|101|10,42&nbsp;Gb|audio records|unprofessional|manual|live speech|none|98%|
-|RuYoutube|[Download](https://disk.yandex.ru/d/6IzUGDzy-WK36Q "Download")|RU|17&nbsp;451|1 873&nbsp;Gb|audio records|unprofessional|asr|live speech|none|95%|
+|EngAudiobooksOriginal|[Download](https://disk.yandex.ru/d/jz3k7pnzTpnTgw "Download")|EN|7&nbsp;130|743&nbsp;Gb|audiobook|professional|forced alignment|reading|none|95%|
+|EngAudiobooksNoisy|[Download](https://disk.yandex.ru/d/jz3k7pnzTpnTgw "Download")|EN|3&nbsp;873|310&nbsp;Gb|audiobook|professional|forced alignment|reading|phone calls|95%|
+|RuAudiobooksDevices|[Download](https://disk.yandex.ru/d/jz3k7pnzTpnTgw "Download")|RU|298|30,24&nbsp;Gb|audiobook|unprofessional|manual|reading|none|99%|
+|RuDevices|[Download](https://disk.yandex.ru/d/jz3k7pnzTpnTgw "Download")|RU|101|10,42&nbsp;Gb|audio records|unprofessional|manual|live speech|none|98%|
+|RuYoutube|[Download](https://disk.yandex.ru/d/QsnbNTK0yzXSiA "Download")|RU|17&nbsp;451|1 873&nbsp;Gb|audio records|unprofessional|asr|live speech|none|95%|
 |**TOTAL**|-|-|**28&nbsp;853**|**2&nbsp;966,66&nbsp;Gb**<br>**(2,9&nbsp;TB)**|-|-|-|-|-|
 
 
