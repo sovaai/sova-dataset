@@ -32,7 +32,7 @@ Key facts:
 * 24/12/2019: Published dataset with 116 hours.
 
 ## Contacts
-For all questions please feel free to contact us through [web form](https://sova.ai/other-inquiries) or directly via <a href="mailto:support@sova.ai?subject=SOVA Dataset">support@sova.ai</a>
+For all questions please feel free to contact us <a href="mailto:support@sova.ai?subject=SOVA Dataset">support@sova.ai</a>
 
 ## License
 
